@@ -1,4 +1,4 @@
-## Hi there 👋
+## .
 
 [![코드트리|실력진단-ji252303](https://banner.codetree.ai/v1/banner/ji252303)](https://www.codetree.ai/profiles/ji252303)
 
