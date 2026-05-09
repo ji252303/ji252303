@@ -1,4 +1,5 @@
 ## ji252303 ✨
+이커머스 업계에서 근무중
 [![코드트리|실력진단-ji252303](https://banner.codetree.ai/v1/banner/ji252303)](https://www.codetree.ai/profiles/ji252303)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qordlstn629)](https://solved.ac/qordlstn629)
 # ✨ Tech Stack ✨</h3>
