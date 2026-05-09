@@ -1,6 +1,6 @@
 ## ji252303 ✨
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qordlstn629)](https://solved.ac/qordlstn629)<br>
 이커머스 업계에서 근무중
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qordlstn629)](https://solved.ac/qordlstn629)
 # ✨ Tech Stack ✨</h3>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
